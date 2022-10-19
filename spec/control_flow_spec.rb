@@ -19,6 +19,8 @@ describe '#admin_login' do
 
 end
 
+
+
 describe '#hows_the_weather' do
   
   it 'returns "It\'s brisk out there!" if the temperature is below 40' do
